@@ -1,7 +1,5 @@
 # 🌦️ ETL Pipeline for Weather and Air Quality Analytics using Streamlit and PostgreSQL
 
-**An Interactive Web Application for Real-Time Weather Insights and Air Quality Monitoring using Streamlit and PostgreSQL.**
-
 ---
 
 ## 📖 Project Overview
